@@ -916,10 +916,10 @@ $year = $separa[2];
 $cvv = $separa[3];
 
 $skeys = array(
-//1 => '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',
-//2 => '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',
-//3 => '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',
-//4 => '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',
+1 => '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',
+2 => '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',
+3 => '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',
+4 => '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',
 5 => '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',
 6 => 'sk_live_h1Q2bZXi5xREBSEhmrUFf31i00IE0Rtpil',
 );
