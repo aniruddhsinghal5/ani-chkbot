@@ -2,7 +2,7 @@
 
 ////////////////=============[Made with ❤️ by Aniruddh]===============////////////////
 
-///https://api.telegram.org/bot<token>/setwebhook?url=<url> ////
+///https://api.telegram.org/bot<token>/setwebhook?url=<url>
 
 
 
