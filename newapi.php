@@ -2,11 +2,11 @@
 
 ////////////////=============[Made with ❤️ by Aniruddh]===============////////////////
 
-///https://api.telegram.org/bot<token>/setwebhook?url=<url>
+///https://api.telegram.org/bot<token>/setwebhook?url=<url> ////
 
 
 
-$botToken = "1557349513:AAEwATXxZ9f5v5u9DMrvzE_wDoTGqwSY5Ho"; // Enter ur bot token
+$botToken = "8472992023:AAFcPiD2kl3-8Mca33gA28EfUzdr9_IwzAE"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
 error_reporting(0);
 $update = file_get_contents('php://input');
